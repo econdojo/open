@@ -4,7 +4,7 @@
   <img src="e4310.jpg" alt="awww" width="50%" height="50%">
 </p>
 
-International economics takes both the micro and macro perspectives to study how nations interact through trade of goods and services, flows of money, and investment. It can be divided into two interrelated subfields: international trade and international finance. This course adopts the macro perspective on international economics, building on the foundations developed in intermediate-level macroeconomics. It provides analytical tools and formal models to explain, in particular, balance of payments and exchange rate determination. Students can apply this set of tools and models to understand current international macroeconomic events, forecast the behavior of the global economy, and assess the impact of real world policy choices.
+International economics takes both the micro and macro perspectives to study how nations interact through trade of goods and services, flows of money, and investment. It can be divided into two interrelated subfields: international trade and international finance. This course adopts the macro perspective on international finance and provides analytical tools and formal models to explain, in particular, balance of payments and exchange rate determination. To optimize learning outcomes, this course incorporates artificial intelligence to enhance students' understanding of the world economy. These AI tools provide personalized learning, real-time feedback, and practical application support, preparing students to assess current global economic events.
 
 ## Class Information
 
@@ -14,7 +14,8 @@ International economics takes both the micro and macro perspectives to study how
 
 ## Lecture Slides
 
-* [Lecture 0: What is Economics](/pdf/E3120Slides0.pdf)
+* [Getting Started with AI Agents](https://github.com/econdojo/papers/blob/main/pdf/agent.pdf)
+* [Lecture 0: What is Economics](https://github.com/econdojo/papers/blob/main/pdf/Econslides0.pdf)
 * [Lecture 1: Introduction](/pdf/Openlec1.pdf)
 * [Lecture 2: National Income Accounting and Balance of Payments](/pdf/Openlec2.pdf)
 * [Lecture 3: Exchange Rates and Foreign Exchange Market](/pdf/Openlec3.pdf)
