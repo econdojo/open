@@ -8,7 +8,7 @@ International economics takes both the micro and macro perspectives to study how
 
 ## Class Information
 
-* **Syllabus:** [Spring 2025](/pdf/E4310syllabus.pdf)
+* **Syllabus:** [Spring 2026](/pdf/E4310syllabus.pdf)
 * **Discord:** [Econ Hub](https://discord.gg/SsrNPEeP2P)
 * **YouTube:** [Business School 101](https://www.youtube.com/@BusinessSchool101)
 
@@ -16,7 +16,7 @@ International economics takes both the micro and macro perspectives to study how
 
 * [Getting Started with AI Agents](https://github.com/econdojo/papers/blob/main/pdf/agent.pdf)
 * [Lecture 0: What is Economics](https://github.com/econdojo/papers/blob/main/pdf/Econslides0.pdf)
-* [Lecture 1: Introduction](/pdf/Openlec1.pdf)
+* [Lecture 1: Introduction](/pdf/lec1.pdf)
 * [Lecture 2: National Income Accounting and Balance of Payments](/pdf/Openlec2.pdf)
 * [Lecture 3: Exchange Rates and Foreign Exchange Market](/pdf/Openlec3.pdf)
 * [Lecture 4: Money, Interest Rates, and Exchange Rates](/pdf/Openlec4.pdf)
