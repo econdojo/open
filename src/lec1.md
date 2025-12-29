@@ -86,13 +86,6 @@ style: |
 
 ---
 
-## The Road Ahead
-
-1. [World Trade: An Overview](#openess-of-u.s.-economy)
-2. [Size Matters: Gravity Model](#size-matters)
-
----
-
 ## What Is International Economics About?
 
 - A subject about how nations interact through trade of goods and services, flows of money, and investment
@@ -140,6 +133,13 @@ style: |
 
 - International capital market
   - e.g. foreign exchange market
+
+---
+
+## The Road Ahead
+
+1. [World Trade: An Overview](#openness-of-us-economy)
+2. [Size Matters: Gravity Model](#size-matters)
 
 ---
 
