@@ -17,7 +17,7 @@ International economics takes both the micro and macro perspectives to study how
 * [Getting Started with AI Agents](https://github.com/econdojo/papers/blob/main/pdf/agent.pdf)
 * [Lecture 0: What is Economics](https://github.com/econdojo/papers/blob/main/pdf/Econslides0.pdf)
 * [Lecture 1: Introduction](/pdf/lec1.pdf)
-* [Lecture 2: National Income Accounting and Balance of Payments](/pdf/Openlec2.pdf)
+* [Lecture 2: National Income Accounting and Balance of Payments](/pdf/lec2.pdf)
 * [Lecture 3: Exchange Rates and Foreign Exchange Market](/pdf/Openlec3.pdf)
 * [Lecture 4: Money, Interest Rates, and Exchange Rates](/pdf/Openlec4.pdf)
 * [Lecture 5: Price Levels and Exchange Rate in Long Run](/pdf/Openlec5.pdf)
