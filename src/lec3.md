@@ -123,13 +123,13 @@ style: |
 
 ## Changes in Exchange Rates
 
-- Depreciation -- decrease in value of one currency <u>relative</u> to another
+- Depreciation - decrease in value of one currency <u>relative</u> to another
 
   - $1/€ $\uparrow$ $1.2/€ : dollar becomes less valuable relative to euro
   - a Nissan costs more as dollar depreciates from $0.01027/¥ to $0.011185/¥
   - price of exports $\downarrow$ relative to price of imports
 
-- Appreciation -- increase in value of one currency <u>relative</u> to another
+- Appreciation - increase in value of one currency <u>relative</u> to another
 
 - Domestic currency depreciates (appreciates) $\Leftrightarrow$ foreign currency appreciates (depreciates)
 
