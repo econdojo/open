@@ -123,13 +123,13 @@ style: |
 
 ## Changes in Exchange Rates
 
-- Depreciation - decrease in value of one currency <u>relative</u> to another
+- Depreciation: decrease in value of one currency <u>relative</u> to another
 
   - $1/€ $\uparrow$ $1.2/€ : dollar becomes less valuable relative to euro
   - a Nissan costs more as dollar depreciates from $0.01027/¥ to $0.011185/¥
   - price of exports $\downarrow$ relative to price of imports
 
-- Appreciation - increase in value of one currency <u>relative</u> to another
+- Appreciation: increase in value of one currency <u>relative</u> to another
 
 - Domestic currency depreciates (appreciates) $\Leftrightarrow$ foreign currency appreciates (depreciates)
 
@@ -160,16 +160,16 @@ style: |
 
 ## Asset Returns
 
-- Nominal rate of return -- percentage change in monetary value of an asset during a time period
+- Nominal rate of return: percentage change in monetary value of an asset during a time period
 
   - e.g. stock price = $100 today, dividend = $1, stock price = $109 next year
   
   $$\text{nominal rate of return}=\frac{(\$109+\$1)-\$100}{\$100}=10\%$$
 
-- Real rate of return -- inflation-adjusted rate of return
+- Real rate of return $-$ inflation-adjusted rate of return
 
-  - _ex-ante_ real rate $\approx$ nominal rate -- expected inflation
-  - _ex-post_ real rate $\approx$ nominal rate -- actual inflation
+  - _ex-ante_ real rate $\approx$ nominal rate $-$ expected inflation
+  - _ex-post_ real rate $\approx$ nominal rate $-$ actual inflation
 
 - Demand for assets primarily depends on rate of return
 
